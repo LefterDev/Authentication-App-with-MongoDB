@@ -1,4 +1,4 @@
-dbPassword = 'mongodb+srv://TestDB:lekais09@cluster0.0fqnu.mongodb.net/authAPPweb?retryWrites=true&w=majority'
+dbPassword = 'mongodb+srv://YOUR_USERNAME:<password>@YOUR_CLUSTER.0fqnu.mongodb.net/YOUR_DATABASE?retryWrites=true&w=majority'
 
 module.exports = {
     mongoURI: dbPassword
