@@ -20,8 +20,12 @@ $ npm run dev
 
 ### Themes 
 
-In [layout.ejs](views/layout.ejs) you change the theme of the website in line 10. Current theme: "https://bootswatch.com/5/quartz/bootstrap.min.css" , If you want the theme you must use the following syntax: "https://bootswatch.com/[dist]/[themename]/bootstrap.min.css". Current dist: 5. Theme name: Find the one you like [here](https://bootswatch.com) 
+In [layout.ejs](views/layout.ejs) you change the theme of the website in line 10. If you want the theme you must use the following syntax: "https://bootswatch.com/[dist]/[theme]/bootstrap.min.css". Current dist: 5. Current Theme: Quartz. Change it to the one you like. Check the current themes [here](https://bootswatch.com) 
 
 ### MongoDB
 
 Open "config/keys.js" and add your MongoDB URI, local or Atlas
+
+### Sample
+
+[Click here for a preview](https://i.imgur.com/cQ8vgsW.png)
