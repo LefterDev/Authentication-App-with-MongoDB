@@ -20,7 +20,7 @@ $ npm run dev
 
 ### Themes 
 
-In [layout.ejs](views/layout.ejs) you change the theme of the website in line 10. Current theme: "https://bootswatch.com/5/quartz/bootstrap.min.css" , If you want the theme you must use the following syntax: "https://bootswatch.com/[dist]/[theme name]/bootstrap.min.css". Current dist: 5. Theme name: Find the one you like [here](https://bootswatch.com) 
+In [layout.ejs](views/layout.ejs) you change the theme of the website in line 10. Current theme: "https://bootswatch.com/5/quartz/bootstrap.min.css" , If you want the theme you must use the following syntax: "https://bootswatch.com/[dist]/[themename]/bootstrap.min.css". Current dist: 5. Theme name: Find the one you like [here](https://bootswatch.com) 
 
 ### MongoDB
 
